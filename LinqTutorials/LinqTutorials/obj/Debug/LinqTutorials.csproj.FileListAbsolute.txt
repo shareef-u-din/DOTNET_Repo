@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqTutorials\bin\Debug\LinqTutorials.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqTutorials\bin\Debug\LinqTutorials.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqTutorials\bin\Debug\LinqTutorials.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqTutorials\obj\Debug\LinqTutorials.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqTutorials\obj\Debug\LinqTutorials.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqTutorials\obj\Debug\LinqTutorials.pdb

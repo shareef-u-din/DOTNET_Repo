@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqOfType\bin\Debug\LinqOfType.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqOfType\bin\Debug\LinqOfType.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqOfType\bin\Debug\LinqOfType.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqOfType\obj\Debug\LinqOfType.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqOfType\obj\Debug\LinqOfType.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqOfType\obj\Debug\LinqOfType.pdb

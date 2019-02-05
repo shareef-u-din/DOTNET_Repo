@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\Task1\Task2(WaitAll)\bin\Debug\Task2(WaitAll).exe.config
+D:\VISUAL_STUDIO_PROGRAMS\Task1\Task2(WaitAll)\bin\Debug\Task2(WaitAll).exe
+D:\VISUAL_STUDIO_PROGRAMS\Task1\Task2(WaitAll)\bin\Debug\Task2(WaitAll).pdb
+D:\VISUAL_STUDIO_PROGRAMS\Task1\Task2(WaitAll)\obj\Debug\Task2(WaitAll).csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\Task1\Task2(WaitAll)\obj\Debug\Task2(WaitAll).exe
+D:\VISUAL_STUDIO_PROGRAMS\Task1\Task2(WaitAll)\obj\Debug\Task2(WaitAll).pdb

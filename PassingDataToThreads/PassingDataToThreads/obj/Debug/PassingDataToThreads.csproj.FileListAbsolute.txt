@@ -1,0 +1,7 @@
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\bin\Debug\PassingDataToThreads.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\bin\Debug\PassingDataToThreads.exe
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\bin\Debug\PassingDataToThreads.pdb
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\obj\Debug\PassingDataToThreads.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\obj\Debug\PassingDataToThreads.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\obj\Debug\PassingDataToThreads.exe
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\PassingDataToThreads\obj\Debug\PassingDataToThreads.pdb

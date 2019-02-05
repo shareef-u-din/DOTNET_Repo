@@ -1,0 +1,5 @@
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\SortCollections\bin\Debug\SortCollections.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\SortCollections\bin\Debug\SortCollections.exe
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\SortCollections\bin\Debug\SortCollections.pdb
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\SortCollections\obj\Debug\SortCollections.exe
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\SortCollections\obj\Debug\SortCollections.pdb

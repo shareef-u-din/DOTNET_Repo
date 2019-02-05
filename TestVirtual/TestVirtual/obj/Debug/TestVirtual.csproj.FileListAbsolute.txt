@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\TestVirtual\TestVirtual\bin\Debug\TestVirtual.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\TestVirtual\TestVirtual\bin\Debug\TestVirtual.exe
+D:\VISUAL_STUDIO_PROGRAMS\TestVirtual\TestVirtual\bin\Debug\TestVirtual.pdb
+D:\VISUAL_STUDIO_PROGRAMS\TestVirtual\TestVirtual\obj\Debug\TestVirtual.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\TestVirtual\TestVirtual\obj\Debug\TestVirtual.exe
+D:\VISUAL_STUDIO_PROGRAMS\TestVirtual\TestVirtual\obj\Debug\TestVirtual.pdb

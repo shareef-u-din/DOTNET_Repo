@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqJoin\bin\Debug\LinqJoin.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqJoin\bin\Debug\LinqJoin.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqJoin\bin\Debug\LinqJoin.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqJoin\obj\Debug\LinqJoin.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqJoin\obj\Debug\LinqJoin.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqJoin\obj\Debug\LinqJoin.pdb

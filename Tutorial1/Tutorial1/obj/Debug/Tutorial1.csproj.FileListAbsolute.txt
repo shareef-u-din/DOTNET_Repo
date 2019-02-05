@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+D:\VISUAL_STUDIO_PROGRAMS\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+D:\VISUAL_STUDIO_PROGRAMS\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+D:\VISUAL_STUDIO_PROGRAMS\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb
+D:\VISUAL_STUDIO_PROGRAMS\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\CollectionsExamples\bin\Debug\CollectionsExamples.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\CollectionsExamples\bin\Debug\CollectionsExamples.exe
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\CollectionsExamples\bin\Debug\CollectionsExamples.pdb
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\CollectionsExamples\obj\Debug\CollectionsExamples.exe
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\CollectionsExamples\obj\Debug\CollectionsExamples.pdb

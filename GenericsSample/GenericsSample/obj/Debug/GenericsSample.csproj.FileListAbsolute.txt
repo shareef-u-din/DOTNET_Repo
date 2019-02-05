@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\GenericsSample\GenericsSample\bin\Debug\GenericsSample.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\GenericsSample\GenericsSample\bin\Debug\GenericsSample.exe
+D:\VISUAL_STUDIO_PROGRAMS\GenericsSample\GenericsSample\bin\Debug\GenericsSample.pdb
+D:\VISUAL_STUDIO_PROGRAMS\GenericsSample\GenericsSample\obj\Debug\GenericsSample.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\GenericsSample\GenericsSample\obj\Debug\GenericsSample.exe
+D:\VISUAL_STUDIO_PROGRAMS\GenericsSample\GenericsSample\obj\Debug\GenericsSample.pdb

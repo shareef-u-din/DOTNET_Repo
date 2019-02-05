@@ -1,0 +1,9 @@
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\bin\Debug\Assessment.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\bin\Debug\Assessment.exe
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\bin\Debug\Assessment.pdb
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\obj\Debug\Assessment.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\obj\Debug\Assessment.Form1.resources
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.Cache
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\obj\Debug\Assessment.exe
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\Assessment\obj\Debug\Assessment.pdb

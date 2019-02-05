@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\UsingDelegates\bin\Debug\UsingDelegates.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\UsingDelegates\bin\Debug\UsingDelegates.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\UsingDelegates\bin\Debug\UsingDelegates.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\UsingDelegates\obj\Debug\UsingDelegates.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\UsingDelegates\obj\Debug\UsingDelegates.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\UsingDelegates\obj\Debug\UsingDelegates.csprojResolveAssemblyReference.cache

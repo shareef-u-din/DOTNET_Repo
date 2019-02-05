@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\CustomException\CustomException\bin\Debug\CustomException.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\CustomException\CustomException\bin\Debug\CustomException.exe
+D:\VISUAL_STUDIO_PROGRAMS\CustomException\CustomException\bin\Debug\CustomException.pdb
+D:\VISUAL_STUDIO_PROGRAMS\CustomException\CustomException\obj\Debug\CustomException.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\CustomException\CustomException\obj\Debug\CustomException.exe
+D:\VISUAL_STUDIO_PROGRAMS\CustomException\CustomException\obj\Debug\CustomException.pdb

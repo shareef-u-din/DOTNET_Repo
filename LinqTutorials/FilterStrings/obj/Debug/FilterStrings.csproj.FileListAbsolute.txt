@@ -1,0 +1,5 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\FilterStrings\bin\Debug\FilterStrings.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\FilterStrings\bin\Debug\FilterStrings.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\FilterStrings\bin\Debug\FilterStrings.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\FilterStrings\obj\Debug\FilterStrings.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\FilterStrings\obj\Debug\FilterStrings.pdb

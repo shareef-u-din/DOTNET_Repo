@@ -1,0 +1,7 @@
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\obj\Debug\XMLRead.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\obj\Debug\XMLRead.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\bin\Debug\XMLRead.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\bin\Debug\XMLRead.exe
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\bin\Debug\XMLRead.pdb
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\obj\Debug\XMLRead.exe
+D:\VISUAL_STUDIO_PROGRAMS\XMLRead\XMLRead\obj\Debug\XMLRead.pdb

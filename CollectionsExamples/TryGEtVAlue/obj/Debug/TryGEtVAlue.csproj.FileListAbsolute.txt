@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\TryGEtVAlue\bin\Debug\TryGEtVAlue.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\TryGEtVAlue\bin\Debug\TryGEtVAlue.exe
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\TryGEtVAlue\bin\Debug\TryGEtVAlue.pdb
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\TryGEtVAlue\obj\Debug\TryGEtVAlue.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\TryGEtVAlue\obj\Debug\TryGEtVAlue.exe
+D:\VISUAL_STUDIO_PROGRAMS\CollectionsExamples\TryGEtVAlue\obj\Debug\TryGEtVAlue.pdb

@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\EventDelegate\EventDelegate\bin\Debug\EventDelegate.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\EventDelegate\EventDelegate\bin\Debug\EventDelegate.exe
+D:\VISUAL_STUDIO_PROGRAMS\EventDelegate\EventDelegate\bin\Debug\EventDelegate.pdb
+D:\VISUAL_STUDIO_PROGRAMS\EventDelegate\EventDelegate\obj\Debug\EventDelegate.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\EventDelegate\EventDelegate\obj\Debug\EventDelegate.exe
+D:\VISUAL_STUDIO_PROGRAMS\EventDelegate\EventDelegate\obj\Debug\EventDelegate.pdb

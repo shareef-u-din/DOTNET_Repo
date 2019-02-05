@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\TryGenericIEnumerable\TryGenericIEnumerable\bin\Debug\TryGenericIEnumerable.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\TryGenericIEnumerable\TryGenericIEnumerable\bin\Debug\TryGenericIEnumerable.exe
+D:\VISUAL_STUDIO_PROGRAMS\TryGenericIEnumerable\TryGenericIEnumerable\bin\Debug\TryGenericIEnumerable.pdb
+D:\VISUAL_STUDIO_PROGRAMS\TryGenericIEnumerable\TryGenericIEnumerable\obj\Debug\TryGenericIEnumerable.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\TryGenericIEnumerable\TryGenericIEnumerable\obj\Debug\TryGenericIEnumerable.exe
+D:\VISUAL_STUDIO_PROGRAMS\TryGenericIEnumerable\TryGenericIEnumerable\obj\Debug\TryGenericIEnumerable.pdb

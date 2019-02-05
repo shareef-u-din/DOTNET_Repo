@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  <country>
+    <title>Australia</title>
+    <cities>
+      <city>Brisbane</city>
+      <city>Milton</city>
+      <city>Toowong</city>
+    </cities>
+  </country>
+  <country>
+    <title>United States</title>
+    <cities>
+      <city>Los Angeles</city>
+      <city>Long Beach</city>
+      <city>Lakewood</city>
+    </cities>
+  </country>
+  <country>
+    <title>China</title>
+    <cities>
+      <city>Beijing</city>
+      <city>Shanghai</city>
+      <city>Shenzhen</city>
+    </cities>
+  </country>
+</catalog>

@@ -1,0 +1,9 @@
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\bin\Debug\AssessmentDisconnected.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\bin\Debug\AssessmentDisconnected.exe
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\bin\Debug\AssessmentDisconnected.pdb
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\obj\Debug\AssessmentDisconnected.Form1.resources
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\obj\Debug\AssessmentDisconnected.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\obj\Debug\AssessmentDisconnected.csproj.GenerateResource.Cache
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\obj\Debug\AssessmentDisconnected.exe
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\obj\Debug\AssessmentDisconnected.pdb
+D:\VISUAL_STUDIO_PROGRAMS\Assessment\AssessmentDisconnected\obj\Debug\AssessmentDisconnected.csprojResolveAssemblyReference.cache

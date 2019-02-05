@@ -1,0 +1,7 @@
+D:\VisualStudio\WaitTask\WaitTask\obj\Debug\WaitTask.csprojAssemblyReference.cache
+D:\VisualStudio\WaitTask\WaitTask\obj\Debug\WaitTask.csproj.CoreCompileInputs.cache
+D:\VisualStudio\WaitTask\WaitTask\bin\Debug\WaitTask.exe.config
+D:\VisualStudio\WaitTask\WaitTask\bin\Debug\WaitTask.exe
+D:\VisualStudio\WaitTask\WaitTask\bin\Debug\WaitTask.pdb
+D:\VisualStudio\WaitTask\WaitTask\obj\Debug\WaitTask.exe
+D:\VisualStudio\WaitTask\WaitTask\obj\Debug\WaitTask.pdb

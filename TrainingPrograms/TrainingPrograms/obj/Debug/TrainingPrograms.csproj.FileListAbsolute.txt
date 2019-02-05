@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\TrainingPrograms\TrainingPrograms\bin\Debug\TrainingPrograms.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\TrainingPrograms\TrainingPrograms\bin\Debug\TrainingPrograms.exe
+D:\VISUAL_STUDIO_PROGRAMS\TrainingPrograms\TrainingPrograms\bin\Debug\TrainingPrograms.pdb
+D:\VISUAL_STUDIO_PROGRAMS\TrainingPrograms\TrainingPrograms\obj\Debug\TrainingPrograms.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\TrainingPrograms\TrainingPrograms\obj\Debug\TrainingPrograms.exe
+D:\VISUAL_STUDIO_PROGRAMS\TrainingPrograms\TrainingPrograms\obj\Debug\TrainingPrograms.pdb

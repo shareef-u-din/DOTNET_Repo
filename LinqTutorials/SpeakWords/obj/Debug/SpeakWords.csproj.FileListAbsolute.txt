@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\SpeakWords\bin\Debug\SpeakWords.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\SpeakWords\bin\Debug\SpeakWords.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\SpeakWords\bin\Debug\SpeakWords.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\SpeakWords\obj\Debug\SpeakWords.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\SpeakWords\obj\Debug\SpeakWords.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\SpeakWords\obj\Debug\SpeakWords.pdb

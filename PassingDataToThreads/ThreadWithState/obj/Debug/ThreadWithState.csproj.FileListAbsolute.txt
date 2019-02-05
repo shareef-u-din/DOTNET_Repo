@@ -1,0 +1,7 @@
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\bin\Debug\ThreadWithState.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\bin\Debug\ThreadWithState.exe
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\bin\Debug\ThreadWithState.pdb
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\obj\Debug\ThreadWithState.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\obj\Debug\ThreadWithState.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\obj\Debug\ThreadWithState.exe
+D:\VISUAL_STUDIO_PROGRAMS\PassingDataToThreads\ThreadWithState\obj\Debug\ThreadWithState.pdb

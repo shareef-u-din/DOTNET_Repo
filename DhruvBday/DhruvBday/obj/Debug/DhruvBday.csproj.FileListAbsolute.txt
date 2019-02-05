@@ -1,0 +1,15 @@
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\bin\Debug\DhruvBday.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\bin\Debug\DhruvBday.exe
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\bin\Debug\DhruvBday.pdb
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\bin\Debug\Interop.WMPLib.dll
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\bin\Debug\AxInterop.WMPLib.dll
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.csprojAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\Interop.WMPLib.dll
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\AxInterop.WMPLib.dll
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.csproj.ResolveComReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.Form1.resources
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.Properties.Resources.resources
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.csproj.GenerateResource.cache
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.csproj.CoreCompileInputs.cache
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.exe
+D:\VISUAL_STUDIO_PROGRAMS\DhruvBday\DhruvBday\obj\Debug\DhruvBday.pdb

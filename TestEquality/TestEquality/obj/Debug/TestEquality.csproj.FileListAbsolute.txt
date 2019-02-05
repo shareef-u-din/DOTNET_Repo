@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\TestEquality\TestEquality\bin\Debug\TestEquality.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\TestEquality\TestEquality\bin\Debug\TestEquality.exe
+D:\VISUAL_STUDIO_PROGRAMS\TestEquality\TestEquality\bin\Debug\TestEquality.pdb
+D:\VISUAL_STUDIO_PROGRAMS\TestEquality\TestEquality\obj\Debug\TestEquality.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\TestEquality\TestEquality\obj\Debug\TestEquality.exe
+D:\VISUAL_STUDIO_PROGRAMS\TestEquality\TestEquality\obj\Debug\TestEquality.pdb

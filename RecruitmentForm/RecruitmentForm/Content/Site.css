@@ -1,0 +1,32 @@
+﻿/*set datatable pagination*/
+a#Employees_previous.paginate_button.previous {
+    float: left;
+    border: 1px solid;
+    padding: 5px;
+    font-weight: bold;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+a#Employees_next.paginate_button.next {
+    border: 1px solid;
+    font-weight: bold;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-top: 3px;
+    padding-bottom: 8px;
+}
+
+div#Employees_info.dataTables_info {
+    text-align: right;
+    margin-bottom: 5px;
+}
+
+nav.navbar.navbar-expand-lg.bg-dark.navbar-dark {
+    border-radius: 0px;
+}
+.initiate-employee{
+    margin-top:-10px;
+}

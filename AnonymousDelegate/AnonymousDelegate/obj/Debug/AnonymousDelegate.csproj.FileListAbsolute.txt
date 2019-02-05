@@ -1,0 +1,6 @@
+c:\users\shareef.b\documents\visual studio 2017\Projects\AnonymousDelegate\AnonymousDelegate\bin\Debug\AnonymousDelegate.exe.config
+c:\users\shareef.b\documents\visual studio 2017\Projects\AnonymousDelegate\AnonymousDelegate\bin\Debug\AnonymousDelegate.exe
+c:\users\shareef.b\documents\visual studio 2017\Projects\AnonymousDelegate\AnonymousDelegate\bin\Debug\AnonymousDelegate.pdb
+c:\users\shareef.b\documents\visual studio 2017\Projects\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.csprojResolveAssemblyReference.cache
+c:\users\shareef.b\documents\visual studio 2017\Projects\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.exe
+c:\users\shareef.b\documents\visual studio 2017\Projects\AnonymousDelegate\AnonymousDelegate\obj\Debug\AnonymousDelegate.pdb

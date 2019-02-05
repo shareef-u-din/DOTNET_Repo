@@ -1,0 +1,5 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqThenBy\bin\Debug\LinqThenBy.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqThenBy\bin\Debug\LinqThenBy.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqThenBy\bin\Debug\LinqThenBy.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqThenBy\obj\Debug\LinqThenBy.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqThenBy\obj\Debug\LinqThenBy.pdb

@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.exe
+D:\VISUAL_STUDIO_PROGRAMS\MultiDelegate\MultiDelegate\bin\Debug\MultiDelegate.pdb
+D:\VISUAL_STUDIO_PROGRAMS\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.exe
+D:\VISUAL_STUDIO_PROGRAMS\MultiDelegate\MultiDelegate\obj\Debug\MultiDelegate.pdb

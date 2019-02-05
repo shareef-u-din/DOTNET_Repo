@@ -1,0 +1,6 @@
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqWhere\bin\Debug\LinqWhere.exe.config
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqWhere\bin\Debug\LinqWhere.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqWhere\bin\Debug\LinqWhere.pdb
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqWhere\obj\Debug\LinqWhere.csprojResolveAssemblyReference.cache
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqWhere\obj\Debug\LinqWhere.exe
+D:\VISUAL_STUDIO_PROGRAMS\LinqTutorials\LinqWhere\obj\Debug\LinqWhere.pdb
